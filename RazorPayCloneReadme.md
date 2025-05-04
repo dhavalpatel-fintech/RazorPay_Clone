@@ -20,7 +20,7 @@ utility-first CSS, and modern frontend workflows.
 
 ## 🚀 Live Demo
 
-🌐 **[View Live Site]([https://razor-pay-neural-dhaval.vercel.app/]))**
+🌐 **[https://razor-pay-neural-dhaval.vercel.app/]**
 
 ---
 
