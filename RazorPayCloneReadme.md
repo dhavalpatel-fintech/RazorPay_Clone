@@ -57,14 +57,25 @@ razorpay-clone/
 
 ## 📸 Screenshots
 
-> <img width="1440" alt="RazorPay_01" src="https://github.com/user-attachments/assets/4ff0e8d8-98e5-4cc6-86f4-a119800270be" />
-> <img width="1440" alt="RazorPay_02" src="https://github.com/user-attachments/assets/73c6a1c0-1934-4fb5-926b-4e036c43c768" />
-> <img width="1440" alt="RazorPay_03" src="https://github.com/user-attachments/assets/f4aed059-a7aa-48b2-b363-8381bee26700" />
-> <img width="1440" alt="RazorPay_04" src="https://github.com/user-attachments/assets/74ed1eda-1d31-4320-b2aa-8c74c24df49b" />
-> <img width="1440" alt="RazorPay_05" src="https://github.com/user-attachments/assets/23b9c420-f49f-40fc-b6a1-284f79e43561" />
-> <img width="1440" alt="RazorPay_06" src="https://github.com/user-attachments/assets/7a4cd85c-fe08-4c52-9fd6-0e2b17afb713" />
-> <img width="1440" alt="RazorPay_07" src="https://github.com/user-attachments/assets/e19d936f-db5e-48e2-8020-e3df7165da25" />
-> <img width="1440" alt="RazorPay_08" src="https://github.com/user-attachments/assets/c1b0d43f-9ed2-40f3-84e4-3f9fdb94d35c" />
+> <img width="1440" alt="SS-01" src="https://github.com/user-attachments/assets/f6487c1f-fa79-4acb-a6d0-7f8127a92cf1" />
+
+> <img width="1440" alt="SS-02" src="https://github.com/user-attachments/assets/5e8da62e-ffba-456f-9cfa-9ea30eddb9b3" />
+
+> <img width="1440" alt="SS-03" src="https://github.com/user-attachments/assets/c908f5ba-122a-473c-a759-146d79892297" />
+
+> <img width="1440" alt="SS-04" src="https://github.com/user-attachments/assets/686b2852-4656-4b36-a12f-ec664b7b1f12" />
+
+> <img width="1440" alt="SS-05" src="https://github.com/user-attachments/assets/21327b80-1b31-4ed6-8b4e-bfd054d9e603" />
+
+> <img width="1440" alt="SS-06" src="https://github.com/user-attachments/assets/5116a1d9-ff86-477b-99d9-80cb340b3ff8" />
+
+> <img width="1440" alt="SS-07" src="https://github.com/user-attachments/assets/990018a2-f373-472d-98df-792557987df1" />
+
+> <img width="1440" alt="SS-08" src="https://github.com/user-attachments/assets/5ccd295a-9d29-42b4-a3bb-a3ded7585f8b" />
+
+> <img width="1440" alt="SS-09" src="https://github.com/user-attachments/assets/d15cf772-8465-4bae-ad33-13f925cb0b80" />
+
+> <img width="1440" alt="SS-10" src="https://github.com/user-attachments/assets/da3e98ec-3d39-498e-b4f4-aae1fdb98fc2" />
 
 ---
 
